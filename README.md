@@ -12,8 +12,8 @@ Stack of technologies:
   
 *Create websites since 2020. Think about users* ❤
 
-Contact with me:   
-**VK** - https://vk.com/dead__kennedy
+Contact with me:  
+**VK** - https://vk.com/dead__kennedy  
 **Telegram** - @romcheg000  
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=novemberrain00)](https://git.io/streak-stats)

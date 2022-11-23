@@ -1,4 +1,3 @@
-# readme_profile
 # Hello, i'm Roman - frontend developer from Russia!
 
 Stack of technologies:

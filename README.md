@@ -17,3 +17,9 @@ Stack of technologies:
  10. Express
  11. Node.js
  12. MySQL
+
+*Create websites since 2020. Think about users* ❤
+
+Contact with me:
+**VK** - https://vk.com/dead__kennedy
+**Telegram** - @romcheg000

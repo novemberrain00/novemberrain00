@@ -21,4 +21,6 @@ Stack of technologies:
 
 Contact with me:  
 **VK** - https://vk.com/dead__kennedy  
-**Telegram** - @romcheg000
+**Telegram** - @romcheg000  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)

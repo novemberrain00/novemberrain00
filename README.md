@@ -18,8 +18,7 @@ Stack of technologies:
 
 *Create websites since 2020. Think about users* ❤
 
-Contact with me:       
-**VK** - https://vk.com/dead__kennedy  
+Contact with me:        
 **Telegram** - @romcheg000  
 
 

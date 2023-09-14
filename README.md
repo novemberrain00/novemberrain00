@@ -16,7 +16,7 @@ Stack of technologies:
 
 ## Conclusion
 
-*Create websites since 2020. Think about users* ❤
+*Think about users* ❤
 
 Contact with me:        
 **Telegram** - @romcheg000  

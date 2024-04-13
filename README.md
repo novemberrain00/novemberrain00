@@ -13,7 +13,7 @@ Stack of technologies:
 *Think about users* ❤
 
 Contact with me:        
-**Telegram** - @romcheg000  
+**Telegram** - @kurdukovr2564
 
 
 
